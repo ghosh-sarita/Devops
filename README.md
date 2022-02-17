@@ -14,7 +14,7 @@ How to serve an image using nodejs
 Installation
 clone git repo:
 
-git clone https://github.com/rsp/node-express-static-example.git
+git clone https://github.com/ghosh-sarita/Devops/tree/main
 or download the ZIP file:
 
 wget https://github.com/rsp/node-express-static-example/archive/master.zip
