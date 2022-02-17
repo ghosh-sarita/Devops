@@ -17,7 +17,7 @@ clone git repo:
 git clone https://github.com/ghosh-sarita/Devops/tree/main
 or download the ZIP file:
 
-wget https://github.com/rsp/node-express-static-example/archive/master.zip
+wget https://github.com/ghosh-sarita/Devops.git
 Inside the project directory run:
 
 npm i
